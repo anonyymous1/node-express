@@ -85,5 +85,6 @@ console.log(subtract(10,20));
 4. In here you want too type in all the first and folders that you want hidden. Be sure to spell the file name exactly how they are spelled, otherwise it will not work.
 
 Example Below:
+https://i.imgur.com/ZYxXIZA.png
 
 You are now done congrats!
