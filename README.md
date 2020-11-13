@@ -2,7 +2,7 @@
 
 Notes:
 
-### Creating Node
+## Creating Node
 1. You go to your `Github` and create a `Repo`.
 2. Once you create that `Repo` go into your terminals to `clone` it locally.
 3. Once you `clone` you repo.
@@ -38,7 +38,7 @@ Questions it will ask for `npm init`: ( It will also show you what is default if
 
 Good Job! You did it!
 
-### Importing Exporting
+## Importing Exporting
 
 When creating functions in other `.js` files, you must be sure to export them to be used outside that file. In this case my `.js` file is called `myModule.js`
 For example:
@@ -77,3 +77,13 @@ console.log(add(5,50));
 console.log(subtract(10,20));
 ```
 ### Now once again check your terminal using node. You're Done!
+
+## Creating .gitIgnore file
+1. First thing you want to do it make sure you are in the correct `repo` in your terminal.
+2. Next you want to type `touch .gitIgnore` make sure you add the "." as this wont work with out it.
+3. Once you created that file go ahead and open it using the terminal by typing `code .`.
+4. In here you want too type in all the first and folders that you want hidden. Be sure to spell the file name exactly how they are spelled, otherwise it will not work.
+
+Example Below:
+
+You are now done congrats!
